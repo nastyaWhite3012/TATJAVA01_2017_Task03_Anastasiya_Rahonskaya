@@ -20,9 +20,4 @@
         <author>Pole</author>
         <date>07.07.2007</date>
     </staff>
-<staff category="Book">
-<title>Gone with the wind</title>
-<author>Margaret</author>
-<date>30.06.1936</date>
-</staff>
 </catalog>
